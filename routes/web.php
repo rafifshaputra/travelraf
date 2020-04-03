@@ -15,12 +15,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/skenario1', function () {
-    return view('skenario5');
+Route::get('/skenario5', function () {
+    return view('skenario1');
 });
 
-Route::get('/skenario2', function () {
-    return view('skenario6');
+Route::get('/skenario6', function () {
+    return view('skenario2');
 });
 
 Route::get('/skenario3', function () {
