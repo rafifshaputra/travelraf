@@ -16,11 +16,11 @@ Route::get('/', function () {
 });
 
 Route::get('/skenario1', function () {
-    return view('skenario1');
+    return view('skenario5');
 });
 
 Route::get('/skenario2', function () {
-    return view('skenario2');
+    return view('skenario6');
 });
 
 Route::get('/skenario3', function () {
