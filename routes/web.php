@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/skenario5', function () {
+Route::get('/mob-h8sk5-73917', function () {
     return view('skenario1');
 });
 
